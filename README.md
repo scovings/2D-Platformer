@@ -31,7 +31,7 @@ A fun 2D platformer made in Python with smooth controls and engaging gameplay!
 
 ## Dependencies
 - `pygame`
-- `more to come`
+- `pytmx`
 
 ## Contributing
 Pull requests are welcome! Feel free to submit issues or feature requests.
