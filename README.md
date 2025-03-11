@@ -22,7 +22,7 @@ A fun 2D platformer made in Python with smooth controls and engaging gameplay!
    ```
 3. Run the game:
    ```sh
-   python main.py
+   python ./code/main.py
    ```
 
 ## Controls
